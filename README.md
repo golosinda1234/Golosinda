@@ -1,1 +1,1 @@
-# Golosinda
+# Golosinda-chessboard
