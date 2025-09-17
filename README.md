@@ -1,4 +1,4 @@
-# Golosinda-chessboard
+
 
 <!DOCTYPE html>
 <html>
